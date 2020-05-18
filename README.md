@@ -4,7 +4,8 @@
 This chat program lets multiple people connect to a specified server to talk to each other using a Java GUI. 
 
 ### Examples
-When run, the following will appear if there was no IP/port provided
+
+GUI Preview
 
 ![](/images/preview.png)
 
